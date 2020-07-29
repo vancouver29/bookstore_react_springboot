@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52c5f959-107d-4afd-8cd8-6514876ce6cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="openjdk-14" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fKFdaui49oPbg5319LDD5nAZuh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-rest-api-reactjs-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mightyjava.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c5f959-107d-4afd-8cd8-6514876ce6cf" name="Default Changelist" comment="" />
+      <created>1595958965204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595958965204</updated>
+      <workItem from="1595958967832" duration="30000" />
+      <workItem from="1595959036591" duration="443000" />
+      <workItem from="1595959499648" duration="1572000" />
+      <workItem from="1595961516323" duration="3910000" />
+      <workItem from="1596018208647" duration="3263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595959530549">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1595959530549" />
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom" timestamp="1596007960105">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960105" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center" timestamp="1596007960101">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960101" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left" timestamp="1596007960093">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960093" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right" timestamp="1596007960102">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960102" />
+    <state width="1238" height="198" key="GridCell.Tab.1.bottom" timestamp="1596007960116">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.bottom/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960116" />
+    <state width="1238" height="198" key="GridCell.Tab.1.center" timestamp="1596007960108">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.center/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960108" />
+    <state width="1238" height="198" key="GridCell.Tab.1.left" timestamp="1596007960106">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.left/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960106" />
+    <state width="1238" height="198" key="GridCell.Tab.1.right" timestamp="1596007960110">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.right/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1596007960110" />
+    <state x="228" y="153" key="IDE.errors.dialog" timestamp="1595959523781">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="228" y="153" key="IDE.errors.dialog/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1595959523781" />
+    <state x="73" y="25" key="SettingsEditor" timestamp="1595959918746">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="73" y="25" key="SettingsEditor/0.23.1280.777/-352.-1057.1920.1057@0.23.1280.777" timestamp="1595959918746" />
+  </component>
+</project>
